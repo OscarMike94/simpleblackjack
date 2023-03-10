@@ -88,6 +88,6 @@ def game():
 while True:
 	game()
 	cont= input("You wanna keep playing? Y or N\n").lower()
-  	print("")
+	print("")
 	if cont == "n":
 		break
